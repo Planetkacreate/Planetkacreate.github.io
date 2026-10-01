@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://planetkacreate.github.io/sitemap.xml
